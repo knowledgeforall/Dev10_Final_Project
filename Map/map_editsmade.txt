@@ -1,0 +1,11 @@
+Edits made to SchDist_2019_v3.json file in mapshaper.org, 'POPULAR_NA' attribute:
+RAMAPO CSD (SUFFERN) -> SUFFERN CSD
+GEORGETOWN-SOUTH OTSELIC CSD -> OTSELIC VALLEY CSD
+GATES-CHILI CSD -> GATES CHILI CSD
+EDINBURG COMMON SD -> EDINBURG COMN SD
+
+missing in our database bc no info on data.nysed.gov:
+PISECO COMN SD
+INLET COMN SD
+RAQUETTE LAKE USFD
+
