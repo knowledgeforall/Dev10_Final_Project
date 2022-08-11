@@ -1,6 +1,6 @@
 # **Data Capstone Project:** *Analyzing New York School District Data*
 #### *Mastery Project including use of Kafka, Machine Learning, Azure Databricks, Azure Data Factory/SQLServer, Power BI, Pyspark, and MS Project.*
-### **Contributors:** Paul Polsinelli, Stanly Perez, Tavianne Kemp, Yiquing Guo
+### **Contributors:** Paul Polsinelli, Stanly Perez, Tavianne Kemp, Yiqing Guo
 ### **Essential Questions**
 
 1. Which districts have the most funding per student and what differentiates them from the other districts? Is there a difference in graduation rate for these districts compared to the ones that don’t receive as much funding?
