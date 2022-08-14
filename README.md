@@ -27,11 +27,20 @@ The **RepeatableETLReport** document explains our ETL process in full.
 6. <a href = "#napkin-drawings">Napkin Drawings</a> <br />
 7. <a href = "#powerbi">PowerBI</a> <br />
 8. <a href = "#project-management-plan">Project Management Plan</a> <br />
-9. <a href = "#repeatable-etl-report">Repeatable ETL Report <a/><br />
-10.<a href = "#sql">SQL <a/><br />
-11.<a href = "#code">Code</a>
+9. <a href = "#repeatable-etl-report">Repeatable ETL Report<a/><br />
+10. <a href = "#sql">SQL <a/><br />
+11. <a href = "#code">Code</a>
 
 <h2>Datasets</h2>
+  
+  This section has a combination of csv files used throughout the data exploration process. Each csv is named it's purpose. The csv that contains all the information is the [Districtdatafinal.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/districtdatafinal.csv). For clarity purposes, below is a list of the remaining csv files and their purpose.
+* [Districtdatascraping.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/DistrictDataScraping.csv) - Data scraped from [data.nysed.gov](https://data.nysed.gov/lists.php?type=district) for preliminary data on New York State districts.
+* [FederallyFundedDistricts.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/FederallyFundedDistricts.csv) - Data provided by [Openbudget.ny.gov](https://openbudget.ny.gov/sft/sft-districts-19.html) to show which districs received federal funds for 2019
+* [NYCSchoolDistricts.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/NYCSchoolDistricts.csv) - Funding data on NYC schools that were then grouped by district to determine the funding per student per district for NYC.
+* [medianincome.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/medianincome.csv) - Median income data gathered on each of the districts of New York State. 
+* [nycdistrict-zipcode.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/nycdistrict-zipcode.csv) - Matching each NYC school district to a zipcode to determine the median income for that district.
+* [Zipcodemedianincome.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/Zipcodemedianincome.csv) - Census data on the median income for zip codes in NY state in order to determine the median income for a school district.
+* [Districtmapping.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/Districtmapping.csv) - Mapping data on the districts in order to be used for for mapping visualization.
 <h2>Entity Relationship</h2>
 <h2>Executive Summary</h2>
 <h2>Exploratory Questions</h2>
