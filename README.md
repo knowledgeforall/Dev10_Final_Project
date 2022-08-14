@@ -1,5 +1,4 @@
 # *How are educational outcomes affected by different factors across New York State Districts*
-#### *Mastery Project includes the use of Kafka, Machine Learning, Azure Databricks, Azure Data Factory/SQLServer, Power BI, Pyspark, and MS Project.*
 ### **Contributors:** Yiqing Guo, Tavianne Kemp, Stanley Perez, Paul Polsinelli
 
 <h1>Overview</h1>
