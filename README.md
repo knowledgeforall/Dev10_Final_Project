@@ -57,8 +57,19 @@ The **RepeatableETLReport** document explains our ETL process in full.
   Files used in order to create a map visualizations of the districts with different filters for them using PowerBI. In order to see the visualization, download the file and open it with PowerBI.
   
 <h2>Napkin Drawings</h2>
+  Pdf files showing our preliminary drawings for our visualizations and our PowerBI dashboard.
+  
 <h2>PowerBI</h2>
+  File that directs to our PowerBI dashboard.
+  
 <h2>Project Management Plan</h2>
+  File that outlines our project management plan throughout our project.
+  
 <h2>Repeatable ETL Report</h2>
+  File with a detailed outlined of our <b>E</b>xtract <b>T</b>ransform <b>L</b>oad process.
+  
 <h2>SQL</h2>
+  Files for our SQL tables.
+  
 <h2>Code</h2>
+  Jupyter notebook files that have the code we used throughout the project.
