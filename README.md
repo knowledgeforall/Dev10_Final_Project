@@ -19,7 +19,7 @@ The **RepeatableETLReport** document explains our ETL process in full.
 5. Can we predict the graduation rate for a district based on the data and which factor has the most effect on the graduation rate for a school district?
 
 <h1>Table of Contents</h1>
-1. [Datasets](#datasets) <br />
+1. [Datasets](#dataset) <br />
 2. Entity Relationship <br />
 3. Executive Summary <br />
 4. Exploratory Questions <br />
@@ -31,4 +31,5 @@ The **RepeatableETLReport** document explains our ETL process in full.
 10. SQL <br />
 11. Code
 
-<h2 a id="datasets">Datasets</h2>
+***Dataset
+these are the datasets
