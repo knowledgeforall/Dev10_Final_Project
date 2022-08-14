@@ -19,17 +19,26 @@ The **RepeatableETLReport** document explains our ETL process in full.
 5. Can we predict the graduation rate for a district based on the data and which factor has the most effect on the graduation rate for a school district?
 
 <h1>Table of Contents</h1>
-1. [Datasets](#dataset) <br />
-2. Entity Relationship <br />
-3. Executive Summary <br />
-4. Exploratory Questions <br />
-5. Map <br />
-6. Napkin Drawings <br />
-7. PowerBI <br />
-8. Project Management Plan <br />
-9. Repeatable ETL Report <br />
-10. SQL <br />
-11. Code
+1. <a href = "#datasets"> Datasets</a> <br />
+2. <a href = "#Entity">Entity Relationship</a> <br />
+3. <a href = "#Executive">Executive Summary</a><br />
+4. <a href = "Exploratory">Exploratory Questions</a> <br />
+5. <a href = "Map">Map</a><br />
+6. <a href = "Napkin">Napkin Drawings</a> <br />
+7. <a href = "PowerBI">PowerBI</a> <br />
+8. <a href = "Project">Project Management Plan</a> <br />
+9. <a href = "ETL">Repeatable ETL Report <a/><br />
+10. <a href = "SQL">SQL <a/><br />
+11. <a href = "Code">Code</a>
 
-***Dataset
-these are the datasets
+<h2 id=#datasets>Datasets</h2>
+<h2 id=#Entity>Entity Relationship</h2>
+<h2 id=#Executive>Executive Summary</h2>
+<h2 id=#Exploratory>Exploratory Questions</h2>
+<h2 id=#Map>Map</h2>
+<h2 id=#Napkin>Napkin Drawings</h2>
+<h2 id=#PowerBI>PowerBI</h2>
+<h2 id=#ProjectPlan>Project Management Plan</h2>
+<h2 id=#ETL>Repeateable ETL Report</h2>
+<h2 id=#SQL>SQL</h2>
+<h2 id=#Code>Code</h2>
