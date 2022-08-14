@@ -20,25 +20,25 @@ The **RepeatableETLReport** document explains our ETL process in full.
 
 <h1>Table of Contents</h1>
 1. <a href = "#datasets"> Datasets</a> <br />
-2. <a href = "#Entity">Entity Relationship</a> <br />
-3. <a href = "#Executive">Executive Summary</a><br />
-4. <a href = "Exploratory">Exploratory Questions</a> <br />
-5. <a href = "Map">Map</a><br />
-6. <a href = "Napkin">Napkin Drawings</a> <br />
-7. <a href = "PowerBI">PowerBI</a> <br />
-8. <a href = "Project">Project Management Plan</a> <br />
-9. <a href = "ETL">Repeatable ETL Report <a/><br />
-10. <a href = "SQL">SQL <a/><br />
-11. <a href = "Code">Code</a>
+2. <a href = "#entity">Entity Relationship</a> <br />
+3. <a href = "#executive">Executive Summary</a><br />
+4. <a href = "exploratory">Exploratory Questions</a> <br />
+5. <a href = "map">Map</a><br />
+6. <a href = "napkin">Napkin Drawings</a> <br />
+7. <a href = "powerbi">PowerBI</a> <br />
+8. <a href = "projectplan">Project Management Plan</a> <br />
+9. <a href = "etl">Repeatable ETL Report <a/><br />
+10. <a href = "sql">SQL <a/><br />
+11. <a href = "code">Code</a>
 
 <h2 id=#datasets>Datasets</h2>
-<h2 id=#Entity>Entity Relationship</h2>
-<h2 id=#Executive>Executive Summary</h2>
-<h2 id=#Exploratory>Exploratory Questions</h2>
-<h2 id=#Map>Map</h2>
-<h2 id=#Napkin>Napkin Drawings</h2>
-<h2 id=#PowerBI>PowerBI</h2>
-<h2 id=#ProjectPlan>Project Management Plan</h2>
-<h2 id=#ETL>Repeateable ETL Report</h2>
-<h2 id=#SQL>SQL</h2>
-<h2 id=#Code>Code</h2>
+<h2 id=#entity>Entity Relationship</h2>
+<h2 id=#executive>Executive Summary</h2>
+<h2 id=#exploratory>Exploratory Questions</h2>
+<h2 id=#pap>Map</h2>
+<h2 id=#napkin>Napkin Drawings</h2>
+<h2 id=#powerbi>PowerBI</h2>
+<h2 id=#rojectplan>Project Management Plan</h2>
+<h2 id=#etl>Repeateable ETL Report</h2>
+<h2 id=#sql>SQL</h2>
+<h2 id=#code>Code</h2>
