@@ -41,7 +41,12 @@ The **RepeatableETLReport** document explains our ETL process in full.
 * [nycdistrict-zipcode.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/nycdistrict-zipcode.csv) - Matching each NYC school district to a zipcode to determine the median income for that district.
 * [Zipcodemedianincome.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/Zipcodemedianincome.csv) - Census data on the median income for zip codes in NY state in order to determine the median income for a school district.
 * [Districtmapping.csv](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Datasets/Districtmapping.csv) - Mapping data on the districts in order to be used for for mapping visualization.
+  
 <h2>Entity Relationship</h2>
+  
+  Diagrams are stored in this folder.
+* [DataFlowVisualizations.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/ER/DataFlowVisualization.pdf) - shows how our network functioned and flowed. 
+* [District Data ERD.drawio.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/ER/District%20Data%20ERD.drawio.pdf) - shows how the SQL tables connected the information together. 
 <h2>Executive Summary</h2>
 <h2>Exploratory Questions</h2>
 <h2>Map</h2>
