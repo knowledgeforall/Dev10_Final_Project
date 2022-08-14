@@ -47,8 +47,15 @@ The **RepeatableETLReport** document explains our ETL process in full.
 * [DataFlowVisualizations.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/ER/DataFlowVisualization.pdf) - shows how our network functioned and flowed. 
 * [District Data ERD.drawio.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/ER/District%20Data%20ERD.drawio.pdf) - shows how the SQL tables connected the information together. 
 <h2>Executive Summary</h2>
+  
+  An executive summary file outlining the project and the goal of it.
+  
 <h2>Exploratory Questions</h2>
+  An exploratory questions file that contains the questions we wish to answer and what we want to answer with our machine learning model.
+  
 <h2>Map</h2>
+  Files used in order to create a map visualizations of the districts with different filters for them using PowerBI. In order to see the visualization, download the file and open it with PowerBI.
+  
 <h2>Napkin Drawings</h2>
 <h2>PowerBI</h2>
 <h2>Project Management Plan</h2>
