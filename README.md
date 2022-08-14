@@ -32,13 +32,13 @@ The **RepeatableETLReport** document explains our ETL process in full.
 11.<a href = "#code">Code</a>
 
 <h2>Datasets</h2>
-<h2 id=#entity>Entity Relationship</h2>
-<h2 id=#executive>Executive Summary</h2>
-<h2 id=#exploratory>Exploratory Questions</h2>
-<h2 id=#map>Map</h2>
-<h2 id=#napkin>Napkin Drawings</h2>
-<h2 id=#powerbi>PowerBI</h2>
-<h2 id=#rojectplan>Project Management Plan</h2>
-<h2 id=#etl>Repeatable ETL Report</h2>
-<h2 id=#sql>SQL</h2>
-<h2 id=#code>Code</h2>
+<h2>Entity Relationship</h2>
+<h2>Executive Summary</h2>
+<h2>Exploratory Questions</h2>
+<h2>Map</h2>
+<h2>Napkin Drawings</h2>
+<h2>PowerBI</h2>
+<h2>Project Management Plan</h2>
+<h2>Repeatable ETL Report</h2>
+<h2>SQL</h2>
+<h2>Code</h2>
