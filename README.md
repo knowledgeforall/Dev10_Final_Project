@@ -22,14 +22,14 @@ The **RepeatableETLReport** document explains our ETL process in full.
 1. <a href = "#datasets"> Datasets</a> <br />
 2. <a href = "#entity-relationship">Entity Relationship</a> <br />
 3. <a href = "#executive-summary">Executive Summary</a><br />
-4. <a href = "exploratory-questions">Exploratory Questions</a> <br />
-5. <a href = "map">Map</a><br />
-6. <a href = "napkin-drawings">Napkin Drawings</a> <br />
-7. <a href = "powerbi">PowerBI</a> <br />
-8. <a href = "project-management-plan">Project Management Plan</a> <br />
-9. <a href = "repeatable-etl-report">Repeatable ETL Report <a/><br />
-10.<a href = "sql">SQL <a/><br />
-11.<a href = "code">Code</a>
+4. <a href = "#exploratory-questions">Exploratory Questions</a> <br />
+5. <a href = "#map">Map</a><br />
+6. <a href = "#napkin-drawings">Napkin Drawings</a> <br />
+7. <a href = "#powerbi">PowerBI</a> <br />
+8. <a href = "#project-management-plan">Project Management Plan</a> <br />
+9. <a href = "#repeatable-etl-report">Repeatable ETL Report <a/><br />
+10.<a href = "#sql">SQL <a/><br />
+11.<a href = "#code">Code</a>
 
 <h2 id=#datasets>Datasets</h2>
 <h2 id=#entity>Entity Relationship</h2>
