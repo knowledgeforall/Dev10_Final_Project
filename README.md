@@ -52,7 +52,7 @@ The **RepeatableETLReport** document explains our ETL process in full.
   
 <h2>Exploratory Questions</h2>
   
-  [ExploratoryQuestions.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Exploratory%20Questions/Exploratory%20Questions.pdf) - Questions that we are looking to answer once all the data is gathered and analyzed.
+  [Exploratory Questions.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Exploratory%20Questions/Exploratory%20Questions.pdf) - Questions that we are looking to answer once all the data is gathered and analyzed.
   
 <h2>Map</h2>
   
