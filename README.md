@@ -56,7 +56,7 @@ The **RepeatableETLReport** document explains our ETL process in full.
   
 <h2>Map</h2>
   
-  [map.pbix] - PowerBI file with the map visualization. Make sure you have PowerBI desktop installed. 
+  [map.pbix](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Map/map.pbix) - PowerBI file with the map visualization. Make sure you have PowerBI desktop installed. 
   
 <h2>Napkin Drawings</h2>
   
