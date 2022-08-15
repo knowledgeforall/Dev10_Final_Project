@@ -48,25 +48,31 @@ The **RepeatableETLReport** document explains our ETL process in full.
 * [District Data ERD.drawio.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/ER/District%20Data%20ERD.drawio.pdf) - shows how the SQL tables connected the information together. 
 <h2>Executive Summary</h2>
   
-  An executive summary [file](https://github.com/knowledgeforall/Dev10_Final_Project/tree/main/Exec%20Summary) outlining the project and the goal of it.
+  [Executive Summary.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/tree/main/Exec%20Summary) - Summary of the project.
   
 <h2>Exploratory Questions</h2>
-  An exploratory questions [file](https://github.com/knowledgeforall/Dev10_Final_Project/tree/main/Exploratory%20Questions) that contains the questions we wish to answer and what we want to answer with our machine learning model.
+  
+  [ExploratoryQuestions.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/tree/main/Exploratory%20Questions) - Questions that we are looking to answer once all the data is gathered and analyzed.
   
 <h2>Map</h2>
-  Files used in order to create a map visualizations of the districts with different filters for them using PowerBI. In order to see the visualization, download the file and open it with PowerBI.
+  
+  [map.pbix] - PowerBI file with the map visualization. Make sure you have PowerBI desktop installed. 
   
 <h2>Napkin Drawings</h2>
-  Pdf files showing our preliminary drawings for our visualizations and our PowerBI dashboard.
+  
+ * [VisualizationsNapkinsAndFeedback.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Napkin%20Drawings/VisualizationsNapkinsAndFeedback.pdf) - Napkin drawing showing the preliminary thoughts on the visualizations to be created from the data. Also includes feedback from peers. 
+  
+ * [DashboardNapkinsAndFeedback.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Napkin%20Drawings/DashboardNapkinsAndFeedback.pdf) - Napkin drawing showing the preliminary thoughts on the dashboard including feedback from peers.
   
 <h2>PowerBI</h2>
-  File that directs to our PowerBI dashboard.
-  
+
 <h2>Project Management Plan</h2>
-  File that outlines our project management plan throughout our project.
+  
+  [ProjectManagementPlan.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Project%20Management%20Plan/ProjectManagementPlan.pdf) - Our project management plan that outlined tasks and time alloted to each task for each team member.
   
 <h2>Repeatable ETL Report</h2>
-  File with a detailed outlined of our <b>E</b>xtract <b>T</b>ransform <b>L</b>oad process.
+  
+  [RepeatableETLReport.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Repeatable%20ETL%20Report/RepeatableETLReport.pdf) - Our <b>E</b>xtract <b>T</b>ransform <b>L</b>oad process in detail.
   
 <h2>SQL</h2>
   Files for our SQL tables.
