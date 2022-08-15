@@ -75,7 +75,9 @@ The **RepeatableETLReport** document explains our ETL process in full.
   [RepeatableETLReport.pdf](https://github.com/knowledgeforall/Dev10_Final_Project/blob/main/Repeatable%20ETL%20Report/RepeatableETLReport.pdf) - Our <b>E</b>xtract <b>T</b>ransform <b>L</b>oad process in detail.
   
 <h2>SQL</h2>
-  Files for our SQL tables.
+  
+  Files that outline the tables used in SQL.
   
 <h2>Code</h2>
-  Jupyter notebook files that have the code we used throughout the project.
+  
+  Files containig python code that was used throughout the process of the project. Each file's name is indicative of its use.
