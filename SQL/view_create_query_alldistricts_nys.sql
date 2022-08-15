@@ -1,3 +1,6 @@
+DROP VIEW [dbo].[nys_alldistricts];
+GO
+
 create view [nys_alldistricts] as
 select [D].*, [I].[MedianIncome], [F].[FederallyFunded]
 from [districts] as [D]
@@ -8,4 +11,4 @@ left join
     group by [DistrictName]) as I
 on [D].[DistrictName] = [I].[DistrictName]
 left join [federallyfunded] as [F]
-on [F].[DistrictName] = [D].[DistrictName]
+on [F].[DistrictName] = [D].[DistrictName];
